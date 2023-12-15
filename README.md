@@ -1,16 +1,18 @@
-### Hi there 👋
+# Mahmoud Eid Ramadan
 
-<!--
-**MESragelden/MESragelden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Observability/Cloud Engineer
 
-Here are some ideas to get you started:
+Giza, Egypt | 📧 mahmoudeed31@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/Mahmoud-Eid) | [GitHub](https://github.com/MESragelden) | [LeetCode](https://leetcode.com/MahmoudEed/) | [HackerRank](https://www.hackerrank.com/profile/MahmoudEid31)
+
+---
+
+## About Me
+
+- 🔭 I’m currently working at Rackspace Technology as a Cloud Observability Engineer, providing customers with essential monitoring solutions for their environments.
+- 🌱 I’m currently learning Kubernetes.
+- 💬 Ask me about Monitoring, Observability, Datadog, AppDynamics, AWS, Python, Bash/Powershell.
+
+---
+
