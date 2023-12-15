@@ -4,8 +4,7 @@
 
 Giza, Egypt | 📧 mahmoudeed31@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/Mahmoud-Eid) | [GitHub](https://github.com/MESragelden) | [LeetCode](https://leetcode.com/MahmoudEed/) | [HackerRank](https://www.hackerrank.com/profile/MahmoudEid31)
-
+[LinkedIn](https://www.linkedin.com/in/Mahmoud-Eid) | [GitHub](https://github.com/MESragelden) | [LeetCode](https://leetcode.com/MahmoudEed/) | [HackerRank](https://www.hackerrank.com/profile/MahmoudEid31)| Dev(https://dev.to/mahmoudeid)
 ---
 
 ## About Me
